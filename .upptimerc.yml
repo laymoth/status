@@ -15,10 +15,9 @@ assignees:
   - laymoth
 
 status-website:
-  favicon: https://github.com/laymoth.png
+  baseUrl: /status
   theme: dark
-  cname: status.laymoth.dev
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/laymoth.png
   name: Laymoth Status
   navbar:
     - title: Status
