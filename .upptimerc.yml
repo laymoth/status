@@ -4,12 +4,6 @@ repo: status
 sites:
   - name: Website
     url: https://laymoth.dev
-  - name: Moepository
-    url: https://pkgs.moezee.space
-  - name: Moezee
-    url: https://moezee.space
-  - name: Bio
-    url: https://xdeveryti.me/laymoth
 
 assignees:
   - laymoth
