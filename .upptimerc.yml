@@ -4,7 +4,6 @@ repo: status
 sites:
   - name: Website
     url: https://laymoth.dev
-    method: POST
   - name: Redirect - Git
     url: https://git.laymoth.dev
   - name: Redirect - Twitter
