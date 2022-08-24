@@ -16,7 +16,7 @@ assignees:
 
 status-website:
   baseUrl: /status
-  themeUrl: https://laymoth.dev/custom.css
+  themeUrl: https://laymoth.dev/status/custom.css
   logoUrl: https://github.com/laymoth.png
   name: Laymoth Status
   navbar:
