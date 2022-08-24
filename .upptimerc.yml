@@ -23,8 +23,8 @@ status-website:
   logoUrl: https://github.com/laymoth.png
   name: Laymoth Status
   navbar:
-    - title: Status
-      href: /status
+    - title: Home
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
       
