@@ -6,7 +6,6 @@ sites:
     url: https://laymoth.dev
   - name: Redirect - Git
     url: https://git.laymoth.dev
-    method: POST
   - name: Redirect - Twitter
     url: https://tw.laymoth.dev
     method: POST
