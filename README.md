@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.laymoth.dev): <!--live status--> **🟥 Complete outage**
+# [📈 Live Status](https://laymoth.dev/status): <!--live status--> **🟥 Complete outage**
 
 This repository contains the open-source uptime monitor and status page for [Laymoth](laymoth.dev), powered by [Upptime](https://github.com/upptime/upptime).
 
