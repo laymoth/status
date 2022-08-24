@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 159,
-    "timeDay": 151,
-    "timeWeek": 157,
-    "timeMonth": 159,
-    "timeYear": 159,
+    "time": 156,
+    "timeDay": 146,
+    "timeWeek": 153,
+    "timeMonth": 156,
+    "timeYear": 156,
     "dailyMinutesDown": {}
   },
   {
@@ -23,17 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/git.laymoth.dev",
     "slug": "redirect-git",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1407,
-    "timeDay": 1407,
-    "timeWeek": 1407,
-    "timeMonth": 1407,
-    "timeYear": 1407,
-    "dailyMinutesDown": {}
+    "uptime": "99.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1330,
+    "timeDay": 1330,
+    "timeWeek": 1330,
+    "timeMonth": 1330,
+    "timeYear": 1330,
+    "dailyMinutesDown": {
+      "2022-08-24": 0
+    }
   },
   {
     "name": "Redirect - Twitter",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2542,
-    "timeDay": 2542,
-    "timeWeek": 2542,
-    "timeMonth": 2542,
-    "timeYear": 2542,
+    "time": 2508,
+    "timeDay": 2508,
+    "timeWeek": 2508,
+    "timeMonth": 2508,
+    "timeYear": 2508,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 766,
-    "timeDay": 766,
-    "timeWeek": 766,
-    "timeMonth": 766,
-    "timeYear": 766,
+    "time": 760,
+    "timeDay": 760,
+    "timeWeek": 760,
+    "timeMonth": 760,
+    "timeYear": 760,
     "dailyMinutesDown": {}
   }
 ]
