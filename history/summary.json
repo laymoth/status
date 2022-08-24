@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/git.laymoth.dev",
     "slug": "redirect-git",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 1330,
-    "timeDay": 1330,
-    "timeWeek": 1330,
-    "timeMonth": 1330,
-    "timeYear": 1330,
+    "uptime": "97.84%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "97.84%",
+    "uptimeMonth": "97.84%",
+    "uptimeYear": "97.84%",
+    "time": 1260,
+    "timeDay": 1260,
+    "timeWeek": 1260,
+    "timeMonth": 1260,
+    "timeYear": 1260,
     "dailyMinutesDown": {
-      "2022-08-24": 0
+      "2022-08-24": 5
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2508,
-    "timeDay": 2508,
-    "timeWeek": 2508,
-    "timeMonth": 2508,
-    "timeYear": 2508,
+    "time": 2533,
+    "timeDay": 2533,
+    "timeWeek": 2533,
+    "timeMonth": 2533,
+    "timeYear": 2533,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 760,
-    "timeDay": 760,
-    "timeWeek": 760,
-    "timeMonth": 760,
-    "timeYear": 760,
+    "time": 766,
+    "timeDay": 766,
+    "timeWeek": 766,
+    "timeMonth": 766,
+    "timeYear": 766,
     "dailyMinutesDown": {}
   }
 ]
