@@ -4,6 +4,12 @@ repo: status
 sites:
   - name: Website
     url: https://laymoth.dev
+  - name: Redirect - Git
+    url: https://git.laymoth.dev
+  - name: Redirect - Twitter
+    url: https://tw.laymoth.dev
+  - name: Redirect - Matrix
+    url: https://matrix.laymoth.dev
 
 assignees:
   - laymoth
