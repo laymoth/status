@@ -21,6 +21,6 @@ status-website:
   name: Laymoth Status
   navbar:
     - title: Status
-      href: /
+      href: /status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
