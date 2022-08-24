@@ -1,4 +1,4 @@
-This repository contains the open-source uptime monitor and status page for [Laymoth](laymoth.dev), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Laymoth](https://laymoth.dev), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/laymoth/status/workflows/Uptime%20CI/badge.svg)](https://github.com/laymoth/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/laymoth/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/laymoth/status/actions?query=workflow%3A%22Response+Time+CI%22)
