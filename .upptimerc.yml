@@ -6,10 +6,13 @@ sites:
     url: https://laymoth.dev
   - name: Redirect - Git
     url: https://git.laymoth.dev
+    method: POST
   - name: Redirect - Twitter
     url: https://tw.laymoth.dev
+    method: POST
   - name: Redirect - Matrix
     url: https://matrix.laymoth.dev
+    method: POST
 
 assignees:
   - laymoth
