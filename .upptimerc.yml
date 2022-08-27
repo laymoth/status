@@ -1,6 +1,3 @@
-owner: laymoth
-repo: status
-
 sites:
   - name: Website
     url: https://laymoth.dev
@@ -26,8 +23,6 @@ status-website:
   navbar:
     - title: Home
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
       
 commitMessages:
   summaryJson: ":card_file_box: Update status summary [skip ci]"
