@@ -23,7 +23,7 @@ status-website:
   logoUrl: https://github.com/alirhmnxd.png
   name: Laymoth Status
   navbar:
-    - title: Home
+    - title: /
       href: /
       
 commitMessages:
