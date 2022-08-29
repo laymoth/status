@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/xdeveryti.me",
     "slug": "ali-s-git-mirror",
     "status": "down",
-    "uptime": "1.22%",
-    "uptimeDay": "1.22%",
-    "uptimeWeek": "1.22%",
-    "uptimeMonth": "1.22%",
-    "uptimeYear": "1.22%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 781,
     "timeDay": 781,
     "timeWeek": 781,
     "timeMonth": 781,
     "timeYear": 781,
-    "dailyMinutesDown": {
-      "2022-08-29": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Redirect - Git",
