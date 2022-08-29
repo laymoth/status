@@ -1,3 +1,6 @@
+owner: laymoth
+repo: status
+
 sites:
   - name: Website
     url: https://laymoth.dev
