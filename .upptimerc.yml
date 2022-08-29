@@ -1,8 +1,8 @@
 sites:
   - name: Website
     url: https://laymoth.dev
-  - name: Ali's Git
-    url: https://xdeveryti.me
+  - name: Ali's Git (Mirror)
+    url: https://xdeveryti.me/
   - name: Redirect - Git
     url: https://gh.laymoth.dev
   - name: Redirect - Twitter
