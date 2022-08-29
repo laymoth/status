@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 360,
-    "timeWeek": 170,
-    "timeMonth": 168,
-    "timeYear": 168,
+    "time": 167,
+    "timeDay": 305,
+    "timeWeek": 169,
+    "timeMonth": 167,
+    "timeYear": 167,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/xdeveryti.me",
     "slug": "ali-s-git-mirror",
     "status": "down",
-    "uptime": "8.43%",
-    "uptimeDay": "8.43%",
-    "uptimeWeek": "8.43%",
-    "uptimeMonth": "8.43%",
-    "uptimeYear": "8.43%",
-    "time": 549,
-    "timeDay": 549,
-    "timeWeek": 549,
-    "timeMonth": 549,
-    "timeYear": 549,
+    "uptime": "1.22%",
+    "uptimeDay": "1.22%",
+    "uptimeWeek": "1.22%",
+    "uptimeMonth": "1.22%",
+    "uptimeYear": "1.22%",
+    "time": 781,
+    "timeDay": 781,
+    "timeWeek": 781,
+    "timeMonth": 781,
+    "timeYear": 781,
     "dailyMinutesDown": {
-      "2022-08-29": 0
+      "2022-08-29": 13
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.57%",
-    "time": 1290,
-    "timeDay": 1222,
-    "timeWeek": 1290,
-    "timeMonth": 1290,
-    "timeYear": 1290,
+    "time": 1277,
+    "timeDay": 1143,
+    "timeWeek": 1277,
+    "timeMonth": 1277,
+    "timeYear": 1277,
     "dailyMinutesDown": {
       "2022-08-25": 20,
       "2022-08-24": 12
@@ -69,11 +69,11 @@
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.74%",
-    "time": 2315,
-    "timeDay": 1947,
-    "timeWeek": 2315,
-    "timeMonth": 2315,
-    "timeYear": 2315,
+    "time": 2311,
+    "timeDay": 2011,
+    "timeWeek": 2311,
+    "timeMonth": 2311,
+    "timeYear": 2311,
     "dailyMinutesDown": {
       "2022-08-25": 19
     }
@@ -89,11 +89,11 @@
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.74%",
-    "time": 877,
-    "timeDay": 731,
-    "timeWeek": 877,
-    "timeMonth": 877,
-    "timeYear": 877,
+    "time": 875,
+    "timeDay": 752,
+    "timeWeek": 875,
+    "timeMonth": 875,
+    "timeYear": 875,
     "dailyMinutesDown": {
       "2022-08-25": 19
     }
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 662,
-    "timeDay": 698,
-    "timeWeek": 662,
-    "timeMonth": 662,
-    "timeYear": 662,
+    "time": 676,
+    "timeDay": 713,
+    "timeWeek": 676,
+    "timeMonth": 676,
+    "timeYear": 676,
     "dailyMinutesDown": {}
   }
 ]
