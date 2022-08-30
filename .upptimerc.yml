@@ -4,9 +4,9 @@ repo: status
 sites:
   - name: Website
     url: https://laymoth.dev
-  - name: Ali's Git (Mirror)
+  - name: Ali's Git
     url: https://xdeveryti.me/
-  - name: Redirect - Git
+  - name: Redirect - GitHub
     url: https://gh.laymoth.dev
   - name: Redirect - Twitter
     url: https://tw.laymoth.dev
@@ -26,7 +26,7 @@ status-website:
   logoUrl: https://github.com/alirhmnxd.png
   name: Laymoth Status
   navbar:
-    - title: /
+    - title: ~/
       href: /
       
 commitMessages:
