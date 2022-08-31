@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/xdeveryti.me",
     "slug": "ali-s-git",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1016,
-    "timeDay": 933,
-    "timeWeek": 1016,
-    "timeMonth": 1016,
-    "timeYear": 1016,
+    "uptime": "97.65%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "97.65%",
+    "uptimeMonth": "97.65%",
+    "uptimeYear": "97.65%",
+    "time": 958,
+    "timeDay": 830,
+    "timeWeek": 958,
+    "timeMonth": 958,
+    "timeYear": 958,
     "dailyMinutesDown": {
-      "2022-08-31": 0
+      "2022-08-31": 41
     }
   },
   {
