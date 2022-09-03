@@ -14,8 +14,6 @@ sites:
   - name: Redirect - Matrix
     url: https://matrix.laymoth.dev
     method: POST
-  - name: Redirect - Telegram (Channel)
-    url: https://tg.laymoth.dev
 
 assignees:
   - laymoth
