@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/xdeveryti.me",
     "slug": "ali-s-git",
     "status": "down",
-    "uptime": "99.57%",
+    "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
     "time": 934,
     "timeDay": 742,
     "timeWeek": 909,
@@ -45,16 +45,18 @@
     "slug": "redirect-git-hub",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2184,
     "timeDay": 1357,
-    "timeWeek": 2637,
+    "timeWeek": 1571,
     "timeMonth": 2184,
     "timeYear": 2184,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-09": 0
+    }
   },
   {
     "name": "Redirect - Twitter",
@@ -82,17 +84,18 @@
     "icon": "https://favicons.githubusercontent.com/matrix.laymoth.dev",
     "slug": "redirect-matrix",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 849,
     "timeDay": 719,
     "timeWeek": 832,
     "timeMonth": 849,
     "timeYear": 849,
     "dailyMinutesDown": {
+      "2022-09-09": 0,
       "2022-08-25": 19
     }
   }
