@@ -25,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/xdeveryti.me",
     "slug": "ali-s-git",
     "status": "down",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 919,
     "timeDay": 897,
     "timeWeek": 863,
@@ -47,8 +47,8 @@
     "slug": "redirect-git-hub",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
     "time": 1656,
@@ -57,6 +57,7 @@
     "timeMonth": 1656,
     "timeYear": 1656,
     "dailyMinutesDown": {
+      "2022-09-28": 0,
       "2022-09-25": 21,
       "2022-09-09": 18
     }
@@ -78,6 +79,7 @@
     "timeMonth": 2893,
     "timeYear": 2688,
     "dailyMinutesDown": {
+      "2022-09-28": 0,
       "2022-09-25": 20,
       "2022-09-12": 39,
       "2022-08-25": 19
