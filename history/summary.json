@@ -70,8 +70,8 @@
     "slug": "redirect-twitter",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.23%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.22%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.75%",
     "time": 2751,
@@ -80,6 +80,7 @@
     "timeMonth": 3202,
     "timeYear": 2751,
     "dailyMinutesDown": {
+      "2022-10-01": 0,
       "2022-09-29": 38,
       "2022-09-28": 20,
       "2022-09-25": 20,
