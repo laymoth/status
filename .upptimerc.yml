@@ -8,8 +8,6 @@ sites:
     url: https://xdeveryti.me/
   - name: Redirect - GitHub
     url: https://gh.laymoth.dev
-  - name: Redirect - Twitter
-    url: https://tw.laymoth.dev
   - name: Redirect - Matrix
     url: https://matrix.laymoth.dev
 
