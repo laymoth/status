@@ -4,8 +4,6 @@ repo: status
 sites:
   - name: Website
     url: https://laymoth.dev
-  - name: Ali's Git
-    url: https://xdeveryti.me/
   - name: Redirect - GitHub
     url: https://gh.laymoth.dev
   - name: Redirect - Matrix
